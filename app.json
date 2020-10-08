@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "lta-panel-clinics",
+    "description": "LTA Panel Clinics App",
+    "slug": "lta-panel-clinics",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "1",
+      "bundleIdentifier": "lta.panel.clinics"
+    },
+    "android": {
+      "package": "lta.panel.clinics",
+      "versionCode": 1,
+      "permissions": []
+    }
+  }
+}
